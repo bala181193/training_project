@@ -1,0 +1,35 @@
+{
+  "name": "vegetables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "convert-excel-to-json": "^1.7.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "csv-parser": "^2.3.3",
+    "datatables-query": "^0.2.0",
+    "express": "^4.17.1",
+    "file-extension": "^4.0.5",
+    "jquery": "^3.5.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "react-hook-form": "^6.8.6",
+    "react-search-multi-select": "^1.0.8",
+    "react-select": "^3.1.0",
+    "react-toastify": "^6.0.8",
+    "xls-to-json": "^2.0.0",
+    "xlsx-to-json": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
